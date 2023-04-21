@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ZensarClone/static/css/main.ee60ac47.chunk.css",
+    "main.js": "/ZensarClone/static/js/main.a13bc543.chunk.js",
+    "main.js.map": "/ZensarClone/static/js/main.a13bc543.chunk.js.map",
+    "runtime-main.js": "/ZensarClone/static/js/runtime-main.1e004834.js",
+    "runtime-main.js.map": "/ZensarClone/static/js/runtime-main.1e004834.js.map",
+    "static/js/2.d69ed828.chunk.js": "/ZensarClone/static/js/2.d69ed828.chunk.js",
+    "static/js/2.d69ed828.chunk.js.map": "/ZensarClone/static/js/2.d69ed828.chunk.js.map",
+    "index.html": "/ZensarClone/index.html",
+    "static/css/main.ee60ac47.chunk.css.map": "/ZensarClone/static/css/main.ee60ac47.chunk.css.map",
+    "static/js/2.d69ed828.chunk.js.LICENSE.txt": "/ZensarClone/static/js/2.d69ed828.chunk.js.LICENSE.txt",
+    "static/media/Christies-case-study-home-page-banner.a075cc80.jpg": "/ZensarClone/static/media/Christies-case-study-home-page-banner.a075cc80.jpg",
+    "static/media/Leveraging_Banner-image.3e6ad682.jpg": "/ZensarClone/static/media/Leveraging_Banner-image.3e6ad682.jpg",
+    "static/media/Web_banner_D3A_1920x950.445a8fe8.jpg": "/ZensarClone/static/media/Web_banner_D3A_1920x950.445a8fe8.jpg",
+    "static/media/banner_3.b5428f6d.jpg": "/ZensarClone/static/media/banner_3.b5428f6d.jpg",
+    "static/media/image1.3602f2d7.jpg": "/ZensarClone/static/media/image1.3602f2d7.jpg",
+    "static/media/image2.f231796b.jpg": "/ZensarClone/static/media/image2.f231796b.jpg",
+    "static/media/image3.038359d0.jpg": "/ZensarClone/static/media/image3.038359d0.jpg",
+    "static/media/image4.a3ac8258.jpg": "/ZensarClone/static/media/image4.a3ac8258.jpg",
+    "static/media/image5.710af631.jpg": "/ZensarClone/static/media/image5.710af631.jpg",
+    "static/media/z-d3.3777d6b9.jpg": "/ZensarClone/static/media/z-d3.3777d6b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e004834.js",
+    "static/js/2.d69ed828.chunk.js",
+    "static/css/main.ee60ac47.chunk.css",
+    "static/js/main.a13bc543.chunk.js"
+  ]
+}
